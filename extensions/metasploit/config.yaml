@@ -25,7 +25,7 @@ beef:
             host: "127.0.0.1"
             port: 55552
             user: "msf"
-            pass: "abc123"
+            pass: "ego690"
             uri: '/api'
             ssl: true
             ssl_version: 'TLS1'
